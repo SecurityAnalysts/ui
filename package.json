@@ -19,7 +19,7 @@
     "@angular/cdk": "^7.3.4",
     "@angular/common": "~7.1.0",
     "@angular/compiler": "~7.1.0",
-    "@angular/core": "~7.1.0",
+    "@angular/core": "~10.2.5",
     "@angular/forms": "~7.1.0",
     "@angular/material": "^7.3.4",
     "@angular/platform-browser": "~7.1.0",
@@ -32,7 +32,7 @@
     "compare-versions": "^3.4.0",
     "core-js": "^2.5.4",
     "highlight.js": "^9.15.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng": "0.0.0",
     "ngx-highlightjs": "^3.0.3",
     "ngx-toastr": "^10.0.2",
@@ -40,12 +40,12 @@
     "rxjs-compat": "6.3.3",
     "tslib": "^1.9.0",
     "url-parse": "^1.4.4",
-    "yarn": "^1.13.0",
+    "yarn": "^1.22.13",
     "zone.js": "~0.8.26",
-    "tar": ">=4.4.2"
+    "tar": ">=4.4.18"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.13.9",
+    "@angular-devkit/build-angular": "^17.3.1",
     "@angular/cli": "^7.3.9",
     "@angular/compiler-cli": "^7.2.8",
     "@angular/language-service": "~7.1.0",
@@ -66,6 +66,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.6",
-    "tar": ">=4.4.2"
+    "tar": ">=4.4.18"
   }
 }
